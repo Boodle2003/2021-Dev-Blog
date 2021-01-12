@@ -2,8 +2,8 @@ title: Geniospasm.com
 author: Chris L.
 email: chrijlowe@students.k12k.com
 theme: minima
-description: > # this means to ignore newlines until "baseurl:"
-The official blog for all things Chris L! For more information, go to https://clzombie2003.wixsite.com/music
+description: > The official blog for all things Chris L! For more information, go to https://clzombie2003.wixsite.com/music # this means to ignore newlines until "baseurl:"
+
 
 # social links
 github_username:  Boodle2003 # DO NOT include the @ character, or else the build will fail!

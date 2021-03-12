@@ -8,4 +8,6 @@ I learned how to set up a sequence for the drone and fix bugs.
 
 We figured out how to fix bugs and make more commands for our sequence.
 
+The Kanman boards were used to sort out tasks and see which one of them were finished.
+
 There shouldn't be a lot more stuff to do before this project is finished!
